@@ -1,3 +1,5 @@
-#.Its just an info table for EFT-OVerhaul
+Its just an info table for EFT-OVerhaul
 
-#.Made by: kajetanw1195
+You need the "icons" folder and "imgttable.html" file
+
+Made by: kajetanw1195
